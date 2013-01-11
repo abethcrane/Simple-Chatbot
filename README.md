@@ -14,3 +14,4 @@ http://code.google.com/p/pygtalkrobot/
 http://pseudoscripter.wordpress.com/2011/05/20/automatically-update-spreadsheets-and-graphs-part-2/
 http://www.mattcutts.com/blog/write-google-spreadsheet-from-python/
 http://gdata-python-client.googlecode.com/hg/pydocs/gdata.spreadsheet.service.html
+http://segfault.in/2010/12/sending-gmail-from-python/
