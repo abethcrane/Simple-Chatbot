@@ -1,7 +1,7 @@
 chatbot
 =======
 
-Simple Spreadsheet Editing Chatbot; I use it to add agenda items to a spreadsheet four our society.
+Simple Spreadsheet Editing Chatbot; I use it to add agenda items to a spreadsheet for our society.
 
 The entire chatbot principle operates off pygtalk. The spreadsheet adding aspect required reading a couple of different sources and combining lines from here and there (and writing a few of my own :P)
 
